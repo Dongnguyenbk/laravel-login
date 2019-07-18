@@ -1,0 +1,82 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.checkbox > label > a:hover, .checkbox > label > a:focus {
+    color: #20cfd6;
+    text-decoration: none;
+}
+
+.checkbox > label > a {
+    color: gray;
+    font-weight: bold;
+}
+
+#login > span {
+    color: black;
+    font-weight: bold;
+}
+
+.form-group {
+    margin: 20px 0px;
+}
+
+.container {
+    padding: 50px 20px;
+}
+
+.foot-content>div {
+    margin: 20px 0px;
+}
+
+.foot-content>div>a {
+    color: gray;
+}
+
+.foot-content>div>a:hover, .foot-content>div>a:focus {
+    text-decoration: none;
+    color: #20cfd6;
+}
+
+input[type="submit"] {
+    width: 100%;
+    background-color: #20cfd6;
+    font-size: 16px;
+    color: white;
+    border: none;
+    margin-top: 20px;
+}
+
+.btn-default:hover, .btn-default:focus, .btn-default.focus, .btn-default:active, .btn-default.active, .open > .dropdown-toggle.btn-default {
+    background-color: #1bb9bf;
+    border: none;
+    color: white;
+}
+
+.brand > p {
+    color: gray;
+}
+
+.brand {
+    width: 300px;
+    margin: auto;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.foot-content.text-center {
+    margin: auto;
+}
+
+.box-content {
+    background-color: white;
+    margin: auto;
+    padding: 30px;
+    padding-bottom: 50px;
+    margin-bottom: 30px;
+}
+
+.back-ground {
+    background-color: #eee;
+}
